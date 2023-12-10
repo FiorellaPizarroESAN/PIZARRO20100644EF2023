@@ -4,10 +4,9 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import android.util.Patterns
+import com.example.pizarro20100644ef2023.R
 import com.example.pizarro20100644ef2023.ui.theme.data.LoginRepository
 import com.example.pizarro20100644ef2023.ui.theme.data.Result
-
-import com.example.pizarro20100644ef2023.ui.theme.R
 
 class LoginViewModel(private val loginRepository: LoginRepository) : ViewModel() {
 
