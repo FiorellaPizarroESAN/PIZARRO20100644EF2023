@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943409036977",
+    "project_id": "ef-fp-8e20b",
+    "storage_bucket": "ef-fp-8e20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943409036977:android:98f4649f00d6f5df872c90",
+        "android_client_info": {
+          "package_name": "com.example.pizarro20100644ef2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_zzpM5HRhXz3aqhZnHWSBqzknwUgkO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943409036977:android:1537b8b2757e73e7872c90",
+        "android_client_info": {
+          "package_name": "dev.pizarroexamenfinal.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_zzpM5HRhXz3aqhZnHWSBqzknwUgkO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
